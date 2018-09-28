@@ -5,7 +5,7 @@ import math
 import numpy
 
 #reading the tennis dataset
-tennis = pd.read_csv("/home/anand/Desktop/Tennis")
+tennis = pd.read_csv("/home/anub/Desktop/Tennis")
 
 #Basic information about the dataset
 print("Dataset Information is as follows")
